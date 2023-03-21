@@ -8,12 +8,22 @@ const stopBtn = document.querySelector('[data-action="stop"]');
 console.log(stopBtn);
 
 const colors = [
-	'#FFFFFF',
-	'#2196F3',
-	'#4CAF50',
-	'#FF9800',
-	'#009688',
-	'#795548',
+	'BlueViolet',
+	'CornflowerBlue',
+	'Cornsilk',
+	'DarkOrange',
+	'LightGreen',
+	'MediumSeaGreen',
+	'OrangeRed',
+	'SkyBlue',
+	'Tomato',
+	'Yellow',
+	'Pink',
+	'RoyalBlue',
+	'Salmon',
+	'Seashell',
+	'GreenYellow',
+	'FireBrick',
 ];
 
 let intervalValue = '';
